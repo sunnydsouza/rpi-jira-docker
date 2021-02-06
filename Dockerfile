@@ -1,6 +1,6 @@
 FROM arm32v7/openjdk:latest
 
-LABEL maintainer="sunnyd <dsouzasunny1436@gmail.com>" version="8.11.0"
+LABEL maintainer="sunnydsouza <me@sunnydsouza.com>" version="8.11.0"
 
 ARG JIRA_VERSION=8.11.0
 # Production: jira-software jira-core
